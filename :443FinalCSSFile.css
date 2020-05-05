@@ -1,0 +1,25 @@
+﻿body {
+   background-color:antiquewhite;
+}
+
+h1{
+    font-size: 20pt;
+}
+
+h2{
+    font-size: 20pt;
+}
+
+h3{
+    font-size: 20pt;
+}
+
+h4{
+    font-size: 20pt;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: left;
+    ;
+}
